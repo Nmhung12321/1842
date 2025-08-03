@@ -1,4 +1,4 @@
-# 1842final
+# 1842
 
 A simple personal dictionary app where you can add, view, edit, and delete your own vocabulary.
 
@@ -23,8 +23,8 @@ Project built with MEVN Stack:
 ### 1. Clone project
 
 ```bash
-git clone https://github.com/Nmhung12321/1842final.git
-cd 1842final
+git clone https://github.com/Nmhung12321/1842.git
+cd 1842
 ```
 
 ### 2. Backend Setup
@@ -79,7 +79,3 @@ vocab-learning/
 ├── README.md
 ```
 
-## Contact
-
-- Author:
-- Email:
